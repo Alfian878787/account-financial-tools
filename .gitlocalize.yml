@@ -1,8 +1,6 @@
 synchronize:
   paths:
-  - source: .
-    exclude:
-    - "account_check_deposit/*.*"
+  - source: .   
     include:
     - "account_check_deposit/i18n/*.*"
     - "account_check_deposit"
