@@ -4,4 +4,4 @@ synchronize:
     exclude:
     - "*.*"
     include:
-    - "**/i18n/*.po"
+    - "./**/i18n/*.po"
