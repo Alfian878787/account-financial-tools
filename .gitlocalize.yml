@@ -1,5 +1,7 @@
 synchronize:
   paths:
   - source: .
+    exclude:
+    - "*.*"
     include:
     - "**/i18n/*.po"
