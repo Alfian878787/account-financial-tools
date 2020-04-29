@@ -5,3 +5,4 @@ synchronize:
     - "account_check_deposit/*.*"
     include:
     - "account_check_deposit/i18n/*.*"
+    - "account_check_deposit"
